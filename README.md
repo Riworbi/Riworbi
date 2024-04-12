@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Krystian</h1>
 <h3 align="center">Developer keen to work and explore new universes of code! 👨‍💻</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=riworbi&label=Profile%20views&color=0e75b6&style=flat" alt="riworbi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=riworbi&label=Profile%20views&color=lightgrey&style=flat" alt="riworbi" /> </p>
 
 - 📫 How to reach me **riworbix@gmail.com**
 
