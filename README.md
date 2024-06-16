@@ -10,49 +10,49 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=spring" height="65" alt="spring logo"  />
-  <img width="30" />
-  <img src="https://skillicons.dev/icons?i=java" height="65" alt="java logo"  />
-  <img width="30" />
-  <img src="https://skillicons.dev/icons?i=maven" height="65" alt="apachemaven logo"  />
-  <img width="30" />
-  <img src="https://skillicons.dev/icons?i=gradle" height="65" alt="gradle logo"  />
-  <img width="30" />
-  <img src="https://skillicons.dev/icons?i=hibernate" height="65" alt="hibernate logo"  />
-  <img width="30" />
-  <img src="https://skillicons.dev/icons?i=js" height="65" alt="javascript logo"  />
-  <img width="30" />
-  <img src="https://skillicons.dev/icons?i=ts" height="65" alt="typescript logo"  />
-  <img width="30" />
-  <img src="https://skillicons.dev/icons?i=angular" height="65" alt="angularjs logo"  />
-  <img width="30" />
-  <img src="https://skillicons.dev/icons?i=reactivex" height="65" alt="reactivex logo"  />
-  <img width="30" />
-  <img src="https://skillicons.dev/icons?i=html" height="65" alt="html5 logo"  />
-  <img width="30" />
-  <img src="https://skillicons.dev/icons?i=css" height="65" alt="css3 logo"  />
-  <img width="30" />
-  <img src="https://skillicons.dev/icons?i=sass" height="65" alt="sass logo"  />
-  <img width="30" />
-  <img src="https://skillicons.dev/icons?i=gherkin" height="65" alt="gherkin logo"  />
-  <img width="30" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="65" alt="mysql logo"  />
-  <img width="30" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="65" alt="postgresql logo"  />
-  <img width="30" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="65" alt="vscode logo"  />
-  <img width="30" />
-  <img src="https://skillicons.dev/icons?i=neovim" height="65" alt="neovim logo"  />
-  <img width="30" />
-  <img src="https://skillicons.dev/icons?i=bash" height="65" alt="bash logo"  />
-  <img width="30" />
-  <img src="https://skillicons.dev/icons?i=postman" height="65" alt="postman logo"  />
-  <img width="30" />
-  <img src="https://skillicons.dev/icons?i=git" height="65" alt="git logo"  />
-  <img width="30" />
-  <img src="https://skillicons.dev/icons?i=docker" height="65" alt="docker logo"  />
-  <img width="30" />
-  <img src="https://skillicons.dev/icons?i=azure" height="65" alt="azure logo"  />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
+  <img width="40" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="40" />
+  <img src="https://skillicons.dev/icons?i=maven" height="40" alt="apachemaven logo"  />
+  <img width="40" />
+  <img src="https://skillicons.dev/icons?i=gradle" height="40" alt="gradle logo"  />
+  <img width="40" />
+  <img src="https://skillicons.dev/icons?i=hibernate" height="40" alt="hibernate logo"  />
+  <img width="40" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="40" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="40" />
+  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"  />
+  <img width="40" />
+  <img src="https://skillicons.dev/icons?i=reactivex" height="40" alt="reactivex logo"  />
+  <img width="40" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="40" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="40" />
+  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
+  <img width="40" />
+  <img src="https://skillicons.dev/icons?i=gherkin" height="40" alt="gherkin logo"  />
+  <img width="40" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="40" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="40" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="40" />
+  <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="neovim logo"  />
+  <img width="40" />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
+  <img width="40" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+  <img width="40" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="40" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="40" />
+  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
 </div>
 
 ###
